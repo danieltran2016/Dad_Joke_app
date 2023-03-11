@@ -1,0 +1,25 @@
+.container {
+    color:red;
+    font-weight:bolder;
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+    background-color: aqua;
+}
+
+.button{
+    margin:30px;
+    }
+
+.history{
+    background-color: black;
+    color: white;
+}
+
+.list {
+    background-color: blue;
+    color: white;
+    margin: 50px;
+
+}
+
